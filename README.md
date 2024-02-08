@@ -77,9 +77,6 @@ The breast cancer dataset is loaded using scikit-learn's breast cancer dataset.
 - Made predictions on both training and testing sets.
 - Displayed accuracy scores for both sets.
 
-## Prediction for a New Data Point
-
-- Provided a sample input data point.
-- Used the trained model to predict the class of breast cancer.
-- Printed the prediction result.
-
+# Made and designed by- Mayank Singh
+# LinkedIn- https://www.linkedin.com/in/mayank-kumar-singh-a203141b9/
+# Contact Info- mayanksingh9451@gmail.com / +919170898012
