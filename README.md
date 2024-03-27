@@ -76,6 +76,7 @@ The breast cancer dataset is loaded using scikit-learn's breast cancer dataset.
 - Created and trained a logistic regression model.
 - Made predictions on both training and testing sets.
 - Displayed accuracy scores for both sets.
+- #mayanksingh2518@gmail.com
 
 # Made and designed by- Mayank Singh
 # LinkedIn- https://www.linkedin.com/in/mayank-kumar-singh-a203141b9/
